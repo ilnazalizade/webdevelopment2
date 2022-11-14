@@ -1,0 +1,12 @@
+C:\Users\amirs\Downloads\update-12\Boobaady-Endof11-Amir-7-Nov-2022\Boobaady\Boobaady.Models\bin\Release\net6.0\Boobaady.Models.deps.json
+C:\Users\amirs\Downloads\update-12\Boobaady-Endof11-Amir-7-Nov-2022\Boobaady\Boobaady.Models\bin\Release\net6.0\Boobaady.Models.dll
+C:\Users\amirs\Downloads\update-12\Boobaady-Endof11-Amir-7-Nov-2022\Boobaady\Boobaady.Models\bin\Release\net6.0\Boobaady.Models.pdb
+C:\Users\amirs\Downloads\update-12\Boobaady-Endof11-Amir-7-Nov-2022\Boobaady\Boobaady.Models\obj\Release\net6.0\Boobaady.Models.csproj.AssemblyReference.cache
+C:\Users\amirs\Downloads\update-12\Boobaady-Endof11-Amir-7-Nov-2022\Boobaady\Boobaady.Models\obj\Release\net6.0\Boobaady.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amirs\Downloads\update-12\Boobaady-Endof11-Amir-7-Nov-2022\Boobaady\Boobaady.Models\obj\Release\net6.0\Boobaady.Models.AssemblyInfoInputs.cache
+C:\Users\amirs\Downloads\update-12\Boobaady-Endof11-Amir-7-Nov-2022\Boobaady\Boobaady.Models\obj\Release\net6.0\Boobaady.Models.AssemblyInfo.cs
+C:\Users\amirs\Downloads\update-12\Boobaady-Endof11-Amir-7-Nov-2022\Boobaady\Boobaady.Models\obj\Release\net6.0\Boobaady.Models.csproj.CoreCompileInputs.cache
+C:\Users\amirs\Downloads\update-12\Boobaady-Endof11-Amir-7-Nov-2022\Boobaady\Boobaady.Models\obj\Release\net6.0\Boobaady.Models.dll
+C:\Users\amirs\Downloads\update-12\Boobaady-Endof11-Amir-7-Nov-2022\Boobaady\Boobaady.Models\obj\Release\net6.0\refint\Boobaady.Models.dll
+C:\Users\amirs\Downloads\update-12\Boobaady-Endof11-Amir-7-Nov-2022\Boobaady\Boobaady.Models\obj\Release\net6.0\Boobaady.Models.pdb
+C:\Users\amirs\Downloads\update-12\Boobaady-Endof11-Amir-7-Nov-2022\Boobaady\Boobaady.Models\obj\Release\net6.0\ref\Boobaady.Models.dll

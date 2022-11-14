@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAC0go2KiwTEicNURX1pB8ogAAAAACAAAAAAAQZgAAAAEAACAAAABqrH8yB0fOljBxRu690pSGyzDa3uKGou/6T06bACF3DQAAAAAOgAAAAAIAACAAAACwbhYFy6v6/9/Wc21Trr5beBXF2O8l9lEtzhzWyBQBkoAAAABZnYl+Ila7HaZSuOjp7fO0dW5sBs3NGvy/JJc8Kl0e6SbRlaKFFya64+PJ6zXclmpe/5krlMgHa+SCeTmGg+KyE6Ch50id+v1dN4Wska0yD1VR1MLx0AwXgE5dd+5P2VZb96Gq1nj1vhPkwAIZEwsXW0NEhxQluq79C2BF0MVK/0AAAABeoknekEzPpM+YqYutAEJ405A2jBn0MtGJbQk5vabdP0NCnfnGXHq4WqvJjvNn9IBo30KX2/gpZ2f7wc+veE/y</EncryptedPassword>
+    <History>True|2022-11-08T19:55:32.8231289Z;False|2022-11-08T14:54:26.3051760-05:00;True|2022-11-08T14:46:44.3113562-05:00;False|2022-11-08T14:43:29.4093597-05:00;True|2022-11-08T14:37:36.9808227-05:00;True|2022-11-08T14:35:01.4995880-05:00;False|2022-11-08T14:33:35.6913588-05:00;True|2022-11-08T14:11:35.2076314-05:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="BoobaadyContextConnection">
+      <Value>Server=tcp:team3server.database.windows.net,1433%3bInitial Catalog=BoobaadyDB1%3bPersist Security Info=False%3bUser ID=AdminLogin%3bPassword=A%4012345678%3bMultipleActiveResultSets=False%3bEncrypt=True%3bTrustServerCertificate=False%3bConnection Timeout=30%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

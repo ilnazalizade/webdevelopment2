@@ -1,0 +1,121 @@
+C:\Users\hpars\OneDrive\Desktop\WebDev2\AppDevII\Project\Boobaady\Boobaady.DataAccess\obj\Debug\net6.0\Boobaady.DataAccess.csproj.AssemblyReference.cache
+C:\Users\hpars\OneDrive\Desktop\WebDev2\AppDevII\Project\Boobaady\Boobaady.DataAccess\obj\Debug\net6.0\Boobaady.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hpars\OneDrive\Desktop\WebDev2\AppDevII\Project\Boobaady\Boobaady.DataAccess\obj\Debug\net6.0\Boobaady.DataAccess.AssemblyInfoInputs.cache
+C:\Users\hpars\OneDrive\Desktop\WebDev2\AppDevII\Project\Boobaady\Boobaady.DataAccess\obj\Debug\net6.0\Boobaady.DataAccess.AssemblyInfo.cs
+C:\Users\hpars\OneDrive\Desktop\WebDev2\AppDevII\Project\Boobaady\Boobaady.DataAccess\obj\Debug\net6.0\Boobaady.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\hpars\OneDrive\Desktop\WebDev2\AppDevII\Project\Boobaady\Boobaady.DataAccess\bin\Debug\net6.0\Boobaady.DataAccess.deps.json
+C:\Users\hpars\OneDrive\Desktop\WebDev2\AppDevII\Project\Boobaady\Boobaady.DataAccess\bin\Debug\net6.0\Boobaady.DataAccess.runtimeconfig.json
+C:\Users\hpars\OneDrive\Desktop\WebDev2\AppDevII\Project\Boobaady\Boobaady.DataAccess\bin\Debug\net6.0\Boobaady.DataAccess.dll
+C:\Users\hpars\OneDrive\Desktop\WebDev2\AppDevII\Project\Boobaady\Boobaady.DataAccess\bin\Debug\net6.0\Boobaady.DataAccess.pdb
+C:\Users\hpars\OneDrive\Desktop\WebDev2\AppDevII\Project\Boobaady\Boobaady.DataAccess\bin\Debug\net6.0\Boobaady.Models.dll
+C:\Users\hpars\OneDrive\Desktop\WebDev2\AppDevII\Project\Boobaady\Boobaady.DataAccess\bin\Debug\net6.0\Boobaady.Models.pdb
+C:\Users\hpars\OneDrive\Desktop\WebDev2\AppDevII\Project\Boobaady\Boobaady.DataAccess\obj\Debug\net6.0\Boobaady.DataAccess.csproj.CopyComplete
+C:\Users\hpars\OneDrive\Desktop\WebDev2\AppDevII\Project\Boobaady\Boobaady.DataAccess\obj\Debug\net6.0\Boobaady.DataAccess.dll
+C:\Users\hpars\OneDrive\Desktop\WebDev2\AppDevII\Project\Boobaady\Boobaady.DataAccess\obj\Debug\net6.0\refint\Boobaady.DataAccess.dll
+C:\Users\hpars\OneDrive\Desktop\WebDev2\AppDevII\Project\Boobaady\Boobaady.DataAccess\obj\Debug\net6.0\Boobaady.DataAccess.pdb
+C:\Users\hpars\OneDrive\Desktop\WebDev2\AppDevII\Project\Boobaady\Boobaady.DataAccess\obj\Debug\net6.0\Boobaady.DataAccess.genruntimeconfig.cache
+C:\Users\hpars\OneDrive\Desktop\WebDev2\AppDevII\Project\Boobaady\Boobaady.DataAccess\obj\Debug\net6.0\ref\Boobaady.DataAccess.dll
+C:\Users\amirs\Downloads\Project-end of 6\Project\Boobaady\Boobaady.DataAccess\bin\Debug\net6.0\Boobaady.DataAccess.deps.json
+C:\Users\amirs\Downloads\Project-end of 6\Project\Boobaady\Boobaady.DataAccess\bin\Debug\net6.0\Boobaady.DataAccess.runtimeconfig.json
+C:\Users\amirs\Downloads\Project-end of 6\Project\Boobaady\Boobaady.DataAccess\bin\Debug\net6.0\Boobaady.DataAccess.dll
+C:\Users\amirs\Downloads\Project-end of 6\Project\Boobaady\Boobaady.DataAccess\bin\Debug\net6.0\Boobaady.DataAccess.pdb
+C:\Users\amirs\Downloads\Project-end of 6\Project\Boobaady\Boobaady.DataAccess\bin\Debug\net6.0\Boobaady.Models.dll
+C:\Users\amirs\Downloads\Project-end of 6\Project\Boobaady\Boobaady.DataAccess\bin\Debug\net6.0\Boobaady.Models.pdb
+C:\Users\amirs\Downloads\Project-end of 6\Project\Boobaady\Boobaady.DataAccess\obj\Debug\net6.0\Boobaady.DataAccess.csproj.AssemblyReference.cache
+C:\Users\amirs\Downloads\Project-end of 6\Project\Boobaady\Boobaady.DataAccess\obj\Debug\net6.0\Boobaady.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amirs\Downloads\Project-end of 6\Project\Boobaady\Boobaady.DataAccess\obj\Debug\net6.0\Boobaady.DataAccess.AssemblyInfoInputs.cache
+C:\Users\amirs\Downloads\Project-end of 6\Project\Boobaady\Boobaady.DataAccess\obj\Debug\net6.0\Boobaady.DataAccess.AssemblyInfo.cs
+C:\Users\amirs\Downloads\Project-end of 6\Project\Boobaady\Boobaady.DataAccess\obj\Debug\net6.0\Boobaady.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\amirs\Downloads\Project-end of 6\Project\Boobaady\Boobaady.DataAccess\obj\Debug\net6.0\Boobaady.DataAccess.csproj.CopyComplete
+C:\Users\amirs\Downloads\Project-end of 6\Project\Boobaady\Boobaady.DataAccess\obj\Debug\net6.0\Boobaady.DataAccess.dll
+C:\Users\amirs\Downloads\Project-end of 6\Project\Boobaady\Boobaady.DataAccess\obj\Debug\net6.0\refint\Boobaady.DataAccess.dll
+C:\Users\amirs\Downloads\Project-end of 6\Project\Boobaady\Boobaady.DataAccess\obj\Debug\net6.0\Boobaady.DataAccess.pdb
+C:\Users\amirs\Downloads\Project-end of 6\Project\Boobaady\Boobaady.DataAccess\obj\Debug\net6.0\Boobaady.DataAccess.genruntimeconfig.cache
+C:\Users\amirs\Downloads\Project-end of 6\Project\Boobaady\Boobaady.DataAccess\obj\Debug\net6.0\ref\Boobaady.DataAccess.dll
+C:\Users\ilnaz\Desktop\core\Day1\Test\WebApp2\project Asp\Project-end of 8-6-Nov-2022-Amir\Project-end of 6\Project\Boobaady\Boobaady.DataAccess\bin\Debug\net6.0\Boobaady.DataAccess.deps.json
+C:\Users\ilnaz\Desktop\core\Day1\Test\WebApp2\project Asp\Project-end of 8-6-Nov-2022-Amir\Project-end of 6\Project\Boobaady\Boobaady.DataAccess\bin\Debug\net6.0\Boobaady.DataAccess.runtimeconfig.json
+C:\Users\ilnaz\Desktop\core\Day1\Test\WebApp2\project Asp\Project-end of 8-6-Nov-2022-Amir\Project-end of 6\Project\Boobaady\Boobaady.DataAccess\bin\Debug\net6.0\Boobaady.DataAccess.dll
+C:\Users\ilnaz\Desktop\core\Day1\Test\WebApp2\project Asp\Project-end of 8-6-Nov-2022-Amir\Project-end of 6\Project\Boobaady\Boobaady.DataAccess\bin\Debug\net6.0\Boobaady.DataAccess.pdb
+C:\Users\ilnaz\Desktop\core\Day1\Test\WebApp2\project Asp\Project-end of 8-6-Nov-2022-Amir\Project-end of 6\Project\Boobaady\Boobaady.DataAccess\bin\Debug\net6.0\Boobaady.Models.dll
+C:\Users\ilnaz\Desktop\core\Day1\Test\WebApp2\project Asp\Project-end of 8-6-Nov-2022-Amir\Project-end of 6\Project\Boobaady\Boobaady.DataAccess\bin\Debug\net6.0\Boobaady.Models.pdb
+C:\Users\ilnaz\Desktop\core\Day1\Test\WebApp2\project Asp\Project-end of 8-6-Nov-2022-Amir\Project-end of 6\Project\Boobaady\Boobaady.DataAccess\obj\Debug\net6.0\Boobaady.DataAccess.csproj.AssemblyReference.cache
+C:\Users\ilnaz\Desktop\core\Day1\Test\WebApp2\project Asp\Project-end of 8-6-Nov-2022-Amir\Project-end of 6\Project\Boobaady\Boobaady.DataAccess\obj\Debug\net6.0\Boobaady.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilnaz\Desktop\core\Day1\Test\WebApp2\project Asp\Project-end of 8-6-Nov-2022-Amir\Project-end of 6\Project\Boobaady\Boobaady.DataAccess\obj\Debug\net6.0\Boobaady.DataAccess.AssemblyInfoInputs.cache
+C:\Users\ilnaz\Desktop\core\Day1\Test\WebApp2\project Asp\Project-end of 8-6-Nov-2022-Amir\Project-end of 6\Project\Boobaady\Boobaady.DataAccess\obj\Debug\net6.0\Boobaady.DataAccess.AssemblyInfo.cs
+C:\Users\ilnaz\Desktop\core\Day1\Test\WebApp2\project Asp\Project-end of 8-6-Nov-2022-Amir\Project-end of 6\Project\Boobaady\Boobaady.DataAccess\obj\Debug\net6.0\Boobaady.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ilnaz\Desktop\core\Day1\Test\WebApp2\project Asp\Project-end of 8-6-Nov-2022-Amir\Project-end of 6\Project\Boobaady\Boobaady.DataAccess\obj\Debug\net6.0\Boobaady.DataAccess.csproj.CopyComplete
+C:\Users\ilnaz\Desktop\core\Day1\Test\WebApp2\project Asp\Project-end of 8-6-Nov-2022-Amir\Project-end of 6\Project\Boobaady\Boobaady.DataAccess\obj\Debug\net6.0\Boobaady.DataAccess.dll
+C:\Users\ilnaz\Desktop\core\Day1\Test\WebApp2\project Asp\Project-end of 8-6-Nov-2022-Amir\Project-end of 6\Project\Boobaady\Boobaady.DataAccess\obj\Debug\net6.0\refint\Boobaady.DataAccess.dll
+C:\Users\ilnaz\Desktop\core\Day1\Test\WebApp2\project Asp\Project-end of 8-6-Nov-2022-Amir\Project-end of 6\Project\Boobaady\Boobaady.DataAccess\obj\Debug\net6.0\Boobaady.DataAccess.pdb
+C:\Users\ilnaz\Desktop\core\Day1\Test\WebApp2\project Asp\Project-end of 8-6-Nov-2022-Amir\Project-end of 6\Project\Boobaady\Boobaady.DataAccess\obj\Debug\net6.0\Boobaady.DataAccess.genruntimeconfig.cache
+C:\Users\ilnaz\Desktop\core\Day1\Test\WebApp2\project Asp\Project-end of 8-6-Nov-2022-Amir\Project-end of 6\Project\Boobaady\Boobaady.DataAccess\obj\Debug\net6.0\ref\Boobaady.DataAccess.dll
+C:\Users\hpars\OneDrive\Desktop\WebDev2\AppDevII\Project\Project-end of 6\Project\Boobaady\Boobaady.DataAccess\bin\Debug\net6.0\Boobaady.DataAccess.deps.json
+C:\Users\hpars\OneDrive\Desktop\WebDev2\AppDevII\Project\Project-end of 6\Project\Boobaady\Boobaady.DataAccess\bin\Debug\net6.0\Boobaady.DataAccess.runtimeconfig.json
+C:\Users\hpars\OneDrive\Desktop\WebDev2\AppDevII\Project\Project-end of 6\Project\Boobaady\Boobaady.DataAccess\bin\Debug\net6.0\Boobaady.DataAccess.dll
+C:\Users\hpars\OneDrive\Desktop\WebDev2\AppDevII\Project\Project-end of 6\Project\Boobaady\Boobaady.DataAccess\bin\Debug\net6.0\Boobaady.DataAccess.pdb
+C:\Users\hpars\OneDrive\Desktop\WebDev2\AppDevII\Project\Project-end of 6\Project\Boobaady\Boobaady.DataAccess\bin\Debug\net6.0\Boobaady.Models.dll
+C:\Users\hpars\OneDrive\Desktop\WebDev2\AppDevII\Project\Project-end of 6\Project\Boobaady\Boobaady.DataAccess\bin\Debug\net6.0\Boobaady.Models.pdb
+C:\Users\hpars\OneDrive\Desktop\WebDev2\AppDevII\Project\Project-end of 6\Project\Boobaady\Boobaady.DataAccess\obj\Debug\net6.0\Boobaady.DataAccess.csproj.AssemblyReference.cache
+C:\Users\hpars\OneDrive\Desktop\WebDev2\AppDevII\Project\Project-end of 6\Project\Boobaady\Boobaady.DataAccess\obj\Debug\net6.0\Boobaady.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hpars\OneDrive\Desktop\WebDev2\AppDevII\Project\Project-end of 6\Project\Boobaady\Boobaady.DataAccess\obj\Debug\net6.0\Boobaady.DataAccess.AssemblyInfoInputs.cache
+C:\Users\hpars\OneDrive\Desktop\WebDev2\AppDevII\Project\Project-end of 6\Project\Boobaady\Boobaady.DataAccess\obj\Debug\net6.0\Boobaady.DataAccess.AssemblyInfo.cs
+C:\Users\hpars\OneDrive\Desktop\WebDev2\AppDevII\Project\Project-end of 6\Project\Boobaady\Boobaady.DataAccess\obj\Debug\net6.0\Boobaady.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\hpars\OneDrive\Desktop\WebDev2\AppDevII\Project\Project-end of 6\Project\Boobaady\Boobaady.DataAccess\obj\Debug\net6.0\Boobaady.DataAccess.csproj.CopyComplete
+C:\Users\hpars\OneDrive\Desktop\WebDev2\AppDevII\Project\Project-end of 6\Project\Boobaady\Boobaady.DataAccess\obj\Debug\net6.0\Boobaady.DataAccess.dll
+C:\Users\hpars\OneDrive\Desktop\WebDev2\AppDevII\Project\Project-end of 6\Project\Boobaady\Boobaady.DataAccess\obj\Debug\net6.0\refint\Boobaady.DataAccess.dll
+C:\Users\hpars\OneDrive\Desktop\WebDev2\AppDevII\Project\Project-end of 6\Project\Boobaady\Boobaady.DataAccess\obj\Debug\net6.0\Boobaady.DataAccess.pdb
+C:\Users\hpars\OneDrive\Desktop\WebDev2\AppDevII\Project\Project-end of 6\Project\Boobaady\Boobaady.DataAccess\obj\Debug\net6.0\Boobaady.DataAccess.genruntimeconfig.cache
+C:\Users\hpars\OneDrive\Desktop\WebDev2\AppDevII\Project\Project-end of 6\Project\Boobaady\Boobaady.DataAccess\obj\Debug\net6.0\ref\Boobaady.DataAccess.dll
+C:\Users\amirs\Downloads\Boobaady-end of 10\Boobaady\Boobaady.DataAccess\bin\Debug\net6.0\Boobaady.DataAccess.deps.json
+C:\Users\amirs\Downloads\Boobaady-end of 10\Boobaady\Boobaady.DataAccess\bin\Debug\net6.0\Boobaady.DataAccess.runtimeconfig.json
+C:\Users\amirs\Downloads\Boobaady-end of 10\Boobaady\Boobaady.DataAccess\bin\Debug\net6.0\Boobaady.DataAccess.dll
+C:\Users\amirs\Downloads\Boobaady-end of 10\Boobaady\Boobaady.DataAccess\bin\Debug\net6.0\Boobaady.DataAccess.pdb
+C:\Users\amirs\Downloads\Boobaady-end of 10\Boobaady\Boobaady.DataAccess\bin\Debug\net6.0\Boobaady.Models.dll
+C:\Users\amirs\Downloads\Boobaady-end of 10\Boobaady\Boobaady.DataAccess\bin\Debug\net6.0\Boobaady.Models.pdb
+C:\Users\amirs\Downloads\Boobaady-end of 10\Boobaady\Boobaady.DataAccess\obj\Debug\net6.0\Boobaady.DataAccess.csproj.AssemblyReference.cache
+C:\Users\amirs\Downloads\Boobaady-end of 10\Boobaady\Boobaady.DataAccess\obj\Debug\net6.0\Boobaady.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amirs\Downloads\Boobaady-end of 10\Boobaady\Boobaady.DataAccess\obj\Debug\net6.0\Boobaady.DataAccess.AssemblyInfoInputs.cache
+C:\Users\amirs\Downloads\Boobaady-end of 10\Boobaady\Boobaady.DataAccess\obj\Debug\net6.0\Boobaady.DataAccess.AssemblyInfo.cs
+C:\Users\amirs\Downloads\Boobaady-end of 10\Boobaady\Boobaady.DataAccess\obj\Debug\net6.0\Boobaady.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\amirs\Downloads\Boobaady-end of 10\Boobaady\Boobaady.DataAccess\obj\Debug\net6.0\Boobaady.DataAccess.csproj.CopyComplete
+C:\Users\amirs\Downloads\Boobaady-end of 10\Boobaady\Boobaady.DataAccess\obj\Debug\net6.0\Boobaady.DataAccess.dll
+C:\Users\amirs\Downloads\Boobaady-end of 10\Boobaady\Boobaady.DataAccess\obj\Debug\net6.0\refint\Boobaady.DataAccess.dll
+C:\Users\amirs\Downloads\Boobaady-end of 10\Boobaady\Boobaady.DataAccess\obj\Debug\net6.0\Boobaady.DataAccess.pdb
+C:\Users\amirs\Downloads\Boobaady-end of 10\Boobaady\Boobaady.DataAccess\obj\Debug\net6.0\Boobaady.DataAccess.genruntimeconfig.cache
+C:\Users\amirs\Downloads\Boobaady-end of 10\Boobaady\Boobaady.DataAccess\obj\Debug\net6.0\ref\Boobaady.DataAccess.dll
+C:\Users\ilnaz\Desktop\core\Day1\Test\WebApp2\project Asp\Boobaady-Endof11-Amir-7-Nov-2022\Boobaady\Boobaady.DataAccess\bin\Debug\net6.0\Boobaady.DataAccess.deps.json
+C:\Users\ilnaz\Desktop\core\Day1\Test\WebApp2\project Asp\Boobaady-Endof11-Amir-7-Nov-2022\Boobaady\Boobaady.DataAccess\bin\Debug\net6.0\Boobaady.DataAccess.runtimeconfig.json
+C:\Users\ilnaz\Desktop\core\Day1\Test\WebApp2\project Asp\Boobaady-Endof11-Amir-7-Nov-2022\Boobaady\Boobaady.DataAccess\bin\Debug\net6.0\Boobaady.DataAccess.dll
+C:\Users\ilnaz\Desktop\core\Day1\Test\WebApp2\project Asp\Boobaady-Endof11-Amir-7-Nov-2022\Boobaady\Boobaady.DataAccess\bin\Debug\net6.0\Boobaady.DataAccess.pdb
+C:\Users\ilnaz\Desktop\core\Day1\Test\WebApp2\project Asp\Boobaady-Endof11-Amir-7-Nov-2022\Boobaady\Boobaady.DataAccess\bin\Debug\net6.0\Boobaady.Models.dll
+C:\Users\ilnaz\Desktop\core\Day1\Test\WebApp2\project Asp\Boobaady-Endof11-Amir-7-Nov-2022\Boobaady\Boobaady.DataAccess\bin\Debug\net6.0\Boobaady.Models.pdb
+C:\Users\ilnaz\Desktop\core\Day1\Test\WebApp2\project Asp\Boobaady-Endof11-Amir-7-Nov-2022\Boobaady\Boobaady.DataAccess\obj\Debug\net6.0\Boobaady.DataAccess.csproj.AssemblyReference.cache
+C:\Users\ilnaz\Desktop\core\Day1\Test\WebApp2\project Asp\Boobaady-Endof11-Amir-7-Nov-2022\Boobaady\Boobaady.DataAccess\obj\Debug\net6.0\Boobaady.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilnaz\Desktop\core\Day1\Test\WebApp2\project Asp\Boobaady-Endof11-Amir-7-Nov-2022\Boobaady\Boobaady.DataAccess\obj\Debug\net6.0\Boobaady.DataAccess.AssemblyInfoInputs.cache
+C:\Users\ilnaz\Desktop\core\Day1\Test\WebApp2\project Asp\Boobaady-Endof11-Amir-7-Nov-2022\Boobaady\Boobaady.DataAccess\obj\Debug\net6.0\Boobaady.DataAccess.AssemblyInfo.cs
+C:\Users\ilnaz\Desktop\core\Day1\Test\WebApp2\project Asp\Boobaady-Endof11-Amir-7-Nov-2022\Boobaady\Boobaady.DataAccess\obj\Debug\net6.0\Boobaady.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ilnaz\Desktop\core\Day1\Test\WebApp2\project Asp\Boobaady-Endof11-Amir-7-Nov-2022\Boobaady\Boobaady.DataAccess\obj\Debug\net6.0\Boobaady.DataAccess.csproj.CopyComplete
+C:\Users\ilnaz\Desktop\core\Day1\Test\WebApp2\project Asp\Boobaady-Endof11-Amir-7-Nov-2022\Boobaady\Boobaady.DataAccess\obj\Debug\net6.0\Boobaady.DataAccess.dll
+C:\Users\ilnaz\Desktop\core\Day1\Test\WebApp2\project Asp\Boobaady-Endof11-Amir-7-Nov-2022\Boobaady\Boobaady.DataAccess\obj\Debug\net6.0\refint\Boobaady.DataAccess.dll
+C:\Users\ilnaz\Desktop\core\Day1\Test\WebApp2\project Asp\Boobaady-Endof11-Amir-7-Nov-2022\Boobaady\Boobaady.DataAccess\obj\Debug\net6.0\Boobaady.DataAccess.pdb
+C:\Users\ilnaz\Desktop\core\Day1\Test\WebApp2\project Asp\Boobaady-Endof11-Amir-7-Nov-2022\Boobaady\Boobaady.DataAccess\obj\Debug\net6.0\Boobaady.DataAccess.genruntimeconfig.cache
+C:\Users\ilnaz\Desktop\core\Day1\Test\WebApp2\project Asp\Boobaady-Endof11-Amir-7-Nov-2022\Boobaady\Boobaady.DataAccess\obj\Debug\net6.0\ref\Boobaady.DataAccess.dll
+C:\Users\amirs\Downloads\update-12\Boobaady-Endof11-Amir-7-Nov-2022\Boobaady\Boobaady.DataAccess\bin\Debug\net6.0\Boobaady.DataAccess.deps.json
+C:\Users\amirs\Downloads\update-12\Boobaady-Endof11-Amir-7-Nov-2022\Boobaady\Boobaady.DataAccess\bin\Debug\net6.0\Boobaady.DataAccess.runtimeconfig.json
+C:\Users\amirs\Downloads\update-12\Boobaady-Endof11-Amir-7-Nov-2022\Boobaady\Boobaady.DataAccess\bin\Debug\net6.0\Boobaady.DataAccess.dll
+C:\Users\amirs\Downloads\update-12\Boobaady-Endof11-Amir-7-Nov-2022\Boobaady\Boobaady.DataAccess\bin\Debug\net6.0\Boobaady.DataAccess.pdb
+C:\Users\amirs\Downloads\update-12\Boobaady-Endof11-Amir-7-Nov-2022\Boobaady\Boobaady.DataAccess\bin\Debug\net6.0\Boobaady.Models.dll
+C:\Users\amirs\Downloads\update-12\Boobaady-Endof11-Amir-7-Nov-2022\Boobaady\Boobaady.DataAccess\bin\Debug\net6.0\Boobaady.Models.pdb
+C:\Users\amirs\Downloads\update-12\Boobaady-Endof11-Amir-7-Nov-2022\Boobaady\Boobaady.DataAccess\obj\Debug\net6.0\Boobaady.DataAccess.csproj.AssemblyReference.cache
+C:\Users\amirs\Downloads\update-12\Boobaady-Endof11-Amir-7-Nov-2022\Boobaady\Boobaady.DataAccess\obj\Debug\net6.0\Boobaady.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amirs\Downloads\update-12\Boobaady-Endof11-Amir-7-Nov-2022\Boobaady\Boobaady.DataAccess\obj\Debug\net6.0\Boobaady.DataAccess.AssemblyInfoInputs.cache
+C:\Users\amirs\Downloads\update-12\Boobaady-Endof11-Amir-7-Nov-2022\Boobaady\Boobaady.DataAccess\obj\Debug\net6.0\Boobaady.DataAccess.AssemblyInfo.cs
+C:\Users\amirs\Downloads\update-12\Boobaady-Endof11-Amir-7-Nov-2022\Boobaady\Boobaady.DataAccess\obj\Debug\net6.0\Boobaady.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\amirs\Downloads\update-12\Boobaady-Endof11-Amir-7-Nov-2022\Boobaady\Boobaady.DataAccess\obj\Debug\net6.0\Boobaady.DataAccess.csproj.CopyComplete
+C:\Users\amirs\Downloads\update-12\Boobaady-Endof11-Amir-7-Nov-2022\Boobaady\Boobaady.DataAccess\obj\Debug\net6.0\Boobaady.DataAccess.dll
+C:\Users\amirs\Downloads\update-12\Boobaady-Endof11-Amir-7-Nov-2022\Boobaady\Boobaady.DataAccess\obj\Debug\net6.0\refint\Boobaady.DataAccess.dll
+C:\Users\amirs\Downloads\update-12\Boobaady-Endof11-Amir-7-Nov-2022\Boobaady\Boobaady.DataAccess\obj\Debug\net6.0\Boobaady.DataAccess.pdb
+C:\Users\amirs\Downloads\update-12\Boobaady-Endof11-Amir-7-Nov-2022\Boobaady\Boobaady.DataAccess\obj\Debug\net6.0\Boobaady.DataAccess.genruntimeconfig.cache
+C:\Users\amirs\Downloads\update-12\Boobaady-Endof11-Amir-7-Nov-2022\Boobaady\Boobaady.DataAccess\obj\Debug\net6.0\ref\Boobaady.DataAccess.dll
+C:\Users\amirs\Downloads\update-12\Boobaady-Endof11-Amir-7-Nov-2022\Boobaady\Boobaady.DataAccess\bin\Debug\net6.0\Boobaady.Utility.dll
+C:\Users\amirs\Downloads\update-12\Boobaady-Endof11-Amir-7-Nov-2022\Boobaady\Boobaady.DataAccess\bin\Debug\net6.0\Boobaady.Utility.pdb

@@ -1,0 +1,84 @@
+C:\Users\hpars\OneDrive\Desktop\WebDev2\AppDevII\Project\Boobaady\Boobaady.Utility\bin\Debug\net6.0\Boobaady.Utility.deps.json
+C:\Users\hpars\OneDrive\Desktop\WebDev2\AppDevII\Project\Boobaady\Boobaady.Utility\bin\Debug\net6.0\Boobaady.Utility.dll
+C:\Users\hpars\OneDrive\Desktop\WebDev2\AppDevII\Project\Boobaady\Boobaady.Utility\bin\Debug\net6.0\Boobaady.Utility.pdb
+C:\Users\hpars\OneDrive\Desktop\WebDev2\AppDevII\Project\Boobaady\Boobaady.Utility\obj\Debug\net6.0\Boobaady.Utility.csproj.AssemblyReference.cache
+C:\Users\hpars\OneDrive\Desktop\WebDev2\AppDevII\Project\Boobaady\Boobaady.Utility\obj\Debug\net6.0\Boobaady.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hpars\OneDrive\Desktop\WebDev2\AppDevII\Project\Boobaady\Boobaady.Utility\obj\Debug\net6.0\Boobaady.Utility.AssemblyInfoInputs.cache
+C:\Users\hpars\OneDrive\Desktop\WebDev2\AppDevII\Project\Boobaady\Boobaady.Utility\obj\Debug\net6.0\Boobaady.Utility.AssemblyInfo.cs
+C:\Users\hpars\OneDrive\Desktop\WebDev2\AppDevII\Project\Boobaady\Boobaady.Utility\obj\Debug\net6.0\Boobaady.Utility.csproj.CoreCompileInputs.cache
+C:\Users\hpars\OneDrive\Desktop\WebDev2\AppDevII\Project\Boobaady\Boobaady.Utility\obj\Debug\net6.0\Boobaady.Utility.dll
+C:\Users\hpars\OneDrive\Desktop\WebDev2\AppDevII\Project\Boobaady\Boobaady.Utility\obj\Debug\net6.0\refint\Boobaady.Utility.dll
+C:\Users\hpars\OneDrive\Desktop\WebDev2\AppDevII\Project\Boobaady\Boobaady.Utility\obj\Debug\net6.0\Boobaady.Utility.pdb
+C:\Users\hpars\OneDrive\Desktop\WebDev2\AppDevII\Project\Boobaady\Boobaady.Utility\obj\Debug\net6.0\ref\Boobaady.Utility.dll
+C:\Users\amirs\Downloads\Project-end of 6\Project\Boobaady\Boobaady.Utility\bin\Debug\net6.0\Boobaady.Utility.deps.json
+C:\Users\amirs\Downloads\Project-end of 6\Project\Boobaady\Boobaady.Utility\bin\Debug\net6.0\Boobaady.Utility.dll
+C:\Users\amirs\Downloads\Project-end of 6\Project\Boobaady\Boobaady.Utility\bin\Debug\net6.0\Boobaady.Utility.pdb
+C:\Users\amirs\Downloads\Project-end of 6\Project\Boobaady\Boobaady.Utility\obj\Debug\net6.0\Boobaady.Utility.csproj.AssemblyReference.cache
+C:\Users\amirs\Downloads\Project-end of 6\Project\Boobaady\Boobaady.Utility\obj\Debug\net6.0\Boobaady.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amirs\Downloads\Project-end of 6\Project\Boobaady\Boobaady.Utility\obj\Debug\net6.0\Boobaady.Utility.AssemblyInfoInputs.cache
+C:\Users\amirs\Downloads\Project-end of 6\Project\Boobaady\Boobaady.Utility\obj\Debug\net6.0\Boobaady.Utility.AssemblyInfo.cs
+C:\Users\amirs\Downloads\Project-end of 6\Project\Boobaady\Boobaady.Utility\obj\Debug\net6.0\Boobaady.Utility.csproj.CoreCompileInputs.cache
+C:\Users\amirs\Downloads\Project-end of 6\Project\Boobaady\Boobaady.Utility\obj\Debug\net6.0\Boobaady.Utility.dll
+C:\Users\amirs\Downloads\Project-end of 6\Project\Boobaady\Boobaady.Utility\obj\Debug\net6.0\refint\Boobaady.Utility.dll
+C:\Users\amirs\Downloads\Project-end of 6\Project\Boobaady\Boobaady.Utility\obj\Debug\net6.0\Boobaady.Utility.pdb
+C:\Users\amirs\Downloads\Project-end of 6\Project\Boobaady\Boobaady.Utility\obj\Debug\net6.0\ref\Boobaady.Utility.dll
+C:\Users\ilnaz\Desktop\core\Day1\Test\WebApp2\project Asp\Project-end of 8-6-Nov-2022-Amir\Project-end of 6\Project\Boobaady\Boobaady.Utility\bin\Debug\net6.0\Boobaady.Utility.deps.json
+C:\Users\ilnaz\Desktop\core\Day1\Test\WebApp2\project Asp\Project-end of 8-6-Nov-2022-Amir\Project-end of 6\Project\Boobaady\Boobaady.Utility\bin\Debug\net6.0\Boobaady.Utility.dll
+C:\Users\ilnaz\Desktop\core\Day1\Test\WebApp2\project Asp\Project-end of 8-6-Nov-2022-Amir\Project-end of 6\Project\Boobaady\Boobaady.Utility\bin\Debug\net6.0\Boobaady.Utility.pdb
+C:\Users\ilnaz\Desktop\core\Day1\Test\WebApp2\project Asp\Project-end of 8-6-Nov-2022-Amir\Project-end of 6\Project\Boobaady\Boobaady.Utility\obj\Debug\net6.0\Boobaady.Utility.csproj.AssemblyReference.cache
+C:\Users\ilnaz\Desktop\core\Day1\Test\WebApp2\project Asp\Project-end of 8-6-Nov-2022-Amir\Project-end of 6\Project\Boobaady\Boobaady.Utility\obj\Debug\net6.0\Boobaady.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilnaz\Desktop\core\Day1\Test\WebApp2\project Asp\Project-end of 8-6-Nov-2022-Amir\Project-end of 6\Project\Boobaady\Boobaady.Utility\obj\Debug\net6.0\Boobaady.Utility.AssemblyInfoInputs.cache
+C:\Users\ilnaz\Desktop\core\Day1\Test\WebApp2\project Asp\Project-end of 8-6-Nov-2022-Amir\Project-end of 6\Project\Boobaady\Boobaady.Utility\obj\Debug\net6.0\Boobaady.Utility.AssemblyInfo.cs
+C:\Users\ilnaz\Desktop\core\Day1\Test\WebApp2\project Asp\Project-end of 8-6-Nov-2022-Amir\Project-end of 6\Project\Boobaady\Boobaady.Utility\obj\Debug\net6.0\Boobaady.Utility.csproj.CoreCompileInputs.cache
+C:\Users\ilnaz\Desktop\core\Day1\Test\WebApp2\project Asp\Project-end of 8-6-Nov-2022-Amir\Project-end of 6\Project\Boobaady\Boobaady.Utility\obj\Debug\net6.0\Boobaady.Utility.dll
+C:\Users\ilnaz\Desktop\core\Day1\Test\WebApp2\project Asp\Project-end of 8-6-Nov-2022-Amir\Project-end of 6\Project\Boobaady\Boobaady.Utility\obj\Debug\net6.0\refint\Boobaady.Utility.dll
+C:\Users\ilnaz\Desktop\core\Day1\Test\WebApp2\project Asp\Project-end of 8-6-Nov-2022-Amir\Project-end of 6\Project\Boobaady\Boobaady.Utility\obj\Debug\net6.0\Boobaady.Utility.pdb
+C:\Users\ilnaz\Desktop\core\Day1\Test\WebApp2\project Asp\Project-end of 8-6-Nov-2022-Amir\Project-end of 6\Project\Boobaady\Boobaady.Utility\obj\Debug\net6.0\ref\Boobaady.Utility.dll
+C:\Users\hpars\OneDrive\Desktop\WebDev2\AppDevII\Project\Project-end of 6\Project\Boobaady\Boobaady.Utility\bin\Debug\net6.0\Boobaady.Utility.deps.json
+C:\Users\hpars\OneDrive\Desktop\WebDev2\AppDevII\Project\Project-end of 6\Project\Boobaady\Boobaady.Utility\bin\Debug\net6.0\Boobaady.Utility.dll
+C:\Users\hpars\OneDrive\Desktop\WebDev2\AppDevII\Project\Project-end of 6\Project\Boobaady\Boobaady.Utility\bin\Debug\net6.0\Boobaady.Utility.pdb
+C:\Users\hpars\OneDrive\Desktop\WebDev2\AppDevII\Project\Project-end of 6\Project\Boobaady\Boobaady.Utility\obj\Debug\net6.0\Boobaady.Utility.csproj.AssemblyReference.cache
+C:\Users\hpars\OneDrive\Desktop\WebDev2\AppDevII\Project\Project-end of 6\Project\Boobaady\Boobaady.Utility\obj\Debug\net6.0\Boobaady.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hpars\OneDrive\Desktop\WebDev2\AppDevII\Project\Project-end of 6\Project\Boobaady\Boobaady.Utility\obj\Debug\net6.0\Boobaady.Utility.AssemblyInfoInputs.cache
+C:\Users\hpars\OneDrive\Desktop\WebDev2\AppDevII\Project\Project-end of 6\Project\Boobaady\Boobaady.Utility\obj\Debug\net6.0\Boobaady.Utility.AssemblyInfo.cs
+C:\Users\hpars\OneDrive\Desktop\WebDev2\AppDevII\Project\Project-end of 6\Project\Boobaady\Boobaady.Utility\obj\Debug\net6.0\Boobaady.Utility.csproj.CoreCompileInputs.cache
+C:\Users\hpars\OneDrive\Desktop\WebDev2\AppDevII\Project\Project-end of 6\Project\Boobaady\Boobaady.Utility\obj\Debug\net6.0\Boobaady.Utility.dll
+C:\Users\hpars\OneDrive\Desktop\WebDev2\AppDevII\Project\Project-end of 6\Project\Boobaady\Boobaady.Utility\obj\Debug\net6.0\refint\Boobaady.Utility.dll
+C:\Users\hpars\OneDrive\Desktop\WebDev2\AppDevII\Project\Project-end of 6\Project\Boobaady\Boobaady.Utility\obj\Debug\net6.0\Boobaady.Utility.pdb
+C:\Users\hpars\OneDrive\Desktop\WebDev2\AppDevII\Project\Project-end of 6\Project\Boobaady\Boobaady.Utility\obj\Debug\net6.0\ref\Boobaady.Utility.dll
+C:\Users\amirs\Downloads\Boobaady-end of 10\Boobaady\Boobaady.Utility\bin\Debug\net6.0\Boobaady.Utility.deps.json
+C:\Users\amirs\Downloads\Boobaady-end of 10\Boobaady\Boobaady.Utility\bin\Debug\net6.0\Boobaady.Utility.dll
+C:\Users\amirs\Downloads\Boobaady-end of 10\Boobaady\Boobaady.Utility\bin\Debug\net6.0\Boobaady.Utility.pdb
+C:\Users\amirs\Downloads\Boobaady-end of 10\Boobaady\Boobaady.Utility\obj\Debug\net6.0\Boobaady.Utility.csproj.AssemblyReference.cache
+C:\Users\amirs\Downloads\Boobaady-end of 10\Boobaady\Boobaady.Utility\obj\Debug\net6.0\Boobaady.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amirs\Downloads\Boobaady-end of 10\Boobaady\Boobaady.Utility\obj\Debug\net6.0\Boobaady.Utility.AssemblyInfoInputs.cache
+C:\Users\amirs\Downloads\Boobaady-end of 10\Boobaady\Boobaady.Utility\obj\Debug\net6.0\Boobaady.Utility.AssemblyInfo.cs
+C:\Users\amirs\Downloads\Boobaady-end of 10\Boobaady\Boobaady.Utility\obj\Debug\net6.0\Boobaady.Utility.csproj.CoreCompileInputs.cache
+C:\Users\amirs\Downloads\Boobaady-end of 10\Boobaady\Boobaady.Utility\obj\Debug\net6.0\Boobaady.Utility.dll
+C:\Users\amirs\Downloads\Boobaady-end of 10\Boobaady\Boobaady.Utility\obj\Debug\net6.0\refint\Boobaady.Utility.dll
+C:\Users\amirs\Downloads\Boobaady-end of 10\Boobaady\Boobaady.Utility\obj\Debug\net6.0\Boobaady.Utility.pdb
+C:\Users\amirs\Downloads\Boobaady-end of 10\Boobaady\Boobaady.Utility\obj\Debug\net6.0\ref\Boobaady.Utility.dll
+C:\Users\ilnaz\Desktop\core\Day1\Test\WebApp2\project Asp\Boobaady-Endof11-Amir-7-Nov-2022\Boobaady\Boobaady.Utility\bin\Debug\net6.0\Boobaady.Utility.deps.json
+C:\Users\ilnaz\Desktop\core\Day1\Test\WebApp2\project Asp\Boobaady-Endof11-Amir-7-Nov-2022\Boobaady\Boobaady.Utility\bin\Debug\net6.0\Boobaady.Utility.dll
+C:\Users\ilnaz\Desktop\core\Day1\Test\WebApp2\project Asp\Boobaady-Endof11-Amir-7-Nov-2022\Boobaady\Boobaady.Utility\bin\Debug\net6.0\Boobaady.Utility.pdb
+C:\Users\ilnaz\Desktop\core\Day1\Test\WebApp2\project Asp\Boobaady-Endof11-Amir-7-Nov-2022\Boobaady\Boobaady.Utility\obj\Debug\net6.0\Boobaady.Utility.csproj.AssemblyReference.cache
+C:\Users\ilnaz\Desktop\core\Day1\Test\WebApp2\project Asp\Boobaady-Endof11-Amir-7-Nov-2022\Boobaady\Boobaady.Utility\obj\Debug\net6.0\Boobaady.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilnaz\Desktop\core\Day1\Test\WebApp2\project Asp\Boobaady-Endof11-Amir-7-Nov-2022\Boobaady\Boobaady.Utility\obj\Debug\net6.0\Boobaady.Utility.AssemblyInfoInputs.cache
+C:\Users\ilnaz\Desktop\core\Day1\Test\WebApp2\project Asp\Boobaady-Endof11-Amir-7-Nov-2022\Boobaady\Boobaady.Utility\obj\Debug\net6.0\Boobaady.Utility.AssemblyInfo.cs
+C:\Users\ilnaz\Desktop\core\Day1\Test\WebApp2\project Asp\Boobaady-Endof11-Amir-7-Nov-2022\Boobaady\Boobaady.Utility\obj\Debug\net6.0\Boobaady.Utility.csproj.CoreCompileInputs.cache
+C:\Users\ilnaz\Desktop\core\Day1\Test\WebApp2\project Asp\Boobaady-Endof11-Amir-7-Nov-2022\Boobaady\Boobaady.Utility\obj\Debug\net6.0\Boobaady.Utility.dll
+C:\Users\ilnaz\Desktop\core\Day1\Test\WebApp2\project Asp\Boobaady-Endof11-Amir-7-Nov-2022\Boobaady\Boobaady.Utility\obj\Debug\net6.0\refint\Boobaady.Utility.dll
+C:\Users\ilnaz\Desktop\core\Day1\Test\WebApp2\project Asp\Boobaady-Endof11-Amir-7-Nov-2022\Boobaady\Boobaady.Utility\obj\Debug\net6.0\Boobaady.Utility.pdb
+C:\Users\ilnaz\Desktop\core\Day1\Test\WebApp2\project Asp\Boobaady-Endof11-Amir-7-Nov-2022\Boobaady\Boobaady.Utility\obj\Debug\net6.0\ref\Boobaady.Utility.dll
+C:\Users\amirs\Downloads\update-12\Boobaady-Endof11-Amir-7-Nov-2022\Boobaady\Boobaady.Utility\bin\Debug\net6.0\Boobaady.Utility.deps.json
+C:\Users\amirs\Downloads\update-12\Boobaady-Endof11-Amir-7-Nov-2022\Boobaady\Boobaady.Utility\bin\Debug\net6.0\Boobaady.Utility.dll
+C:\Users\amirs\Downloads\update-12\Boobaady-Endof11-Amir-7-Nov-2022\Boobaady\Boobaady.Utility\bin\Debug\net6.0\Boobaady.Utility.pdb
+C:\Users\amirs\Downloads\update-12\Boobaady-Endof11-Amir-7-Nov-2022\Boobaady\Boobaady.Utility\obj\Debug\net6.0\Boobaady.Utility.csproj.AssemblyReference.cache
+C:\Users\amirs\Downloads\update-12\Boobaady-Endof11-Amir-7-Nov-2022\Boobaady\Boobaady.Utility\obj\Debug\net6.0\Boobaady.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amirs\Downloads\update-12\Boobaady-Endof11-Amir-7-Nov-2022\Boobaady\Boobaady.Utility\obj\Debug\net6.0\Boobaady.Utility.AssemblyInfoInputs.cache
+C:\Users\amirs\Downloads\update-12\Boobaady-Endof11-Amir-7-Nov-2022\Boobaady\Boobaady.Utility\obj\Debug\net6.0\Boobaady.Utility.AssemblyInfo.cs
+C:\Users\amirs\Downloads\update-12\Boobaady-Endof11-Amir-7-Nov-2022\Boobaady\Boobaady.Utility\obj\Debug\net6.0\Boobaady.Utility.csproj.CoreCompileInputs.cache
+C:\Users\amirs\Downloads\update-12\Boobaady-Endof11-Amir-7-Nov-2022\Boobaady\Boobaady.Utility\obj\Debug\net6.0\Boobaady.Utility.dll
+C:\Users\amirs\Downloads\update-12\Boobaady-Endof11-Amir-7-Nov-2022\Boobaady\Boobaady.Utility\obj\Debug\net6.0\refint\Boobaady.Utility.dll
+C:\Users\amirs\Downloads\update-12\Boobaady-Endof11-Amir-7-Nov-2022\Boobaady\Boobaady.Utility\obj\Debug\net6.0\Boobaady.Utility.pdb
+C:\Users\amirs\Downloads\update-12\Boobaady-Endof11-Amir-7-Nov-2022\Boobaady\Boobaady.Utility\obj\Debug\net6.0\ref\Boobaady.Utility.dll
